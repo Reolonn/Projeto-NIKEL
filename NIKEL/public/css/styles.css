@@ -1,0 +1,154 @@
+#Login{
+    background: linear-gradient(110deg, #4c79d3 44.9%, white 45%) no-repeat fixed;
+}
+
+.appp{
+    background: linear-gradient(110deg, white 44.9%, #4c79d3 45%) no-repeat fixed;
+}
+
+.headerhome{
+    border-bottom: 1px solid black;
+    padding: 5px;
+    background-color: white;
+}
+
+.bluecolor{
+    color: #4c79d3;
+}
+
+
+.purplecolor{
+    color: #4e0070;
+}
+
+.icondetail{
+    font-size: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.txtbranco{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.coins{
+    position: absolute;
+    bottom: 20px;
+}
+
+.button-log_in{
+    padding: 6px;
+
+    border-radius: 10px;
+    background-color:#4e0070;
+    color: white;
+
+    width: 50%;
+    margin: 0 25%;
+}
+
+.button-log_in:hover {
+    background:#4c79d3;
+    color: white;
+}
+
+.links{
+    color: #4e0070;
+    cursor: pointer;
+    font-weight: 600;
+}
+.links:hover{
+    color: #4c79d3;
+}
+
+.info{
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+    padding: 20px 0px 0px;
+}
+
+.button_default{
+    border-radius: 10px;
+
+    background-color:#4e0070;
+    color: white;
+}
+.button_signin{
+    border-radius: 10px;
+
+    background-color:#4e0070;
+    color: white;
+
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.button_default:hover{
+    background-color:#4c79d3;
+    color: white;
+}
+
+.floatbutton{
+    border-radius: 100%;
+    height: 60px;
+    width: 60px;
+
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+
+    font-size: 35px;
+    padding: 0px !important;
+
+    background-color:#4e0070;
+    color: white;
+    border: black 2px solid;
+}
+.floatbutton:hover{
+    background-color:#3a0053;
+    color: white;
+}
+
+.menuu{
+    margin-right: 40px;
+    max-width: 5rem;
+}
+
+.deletetext{
+    vertical-align: bottom;
+    font-size: 20px;
+}
+
+.deletebutton{
+    background-color: #3a0053;
+    color: white;
+    border-radius: 15px;
+    border: 1px solid black;
+
+    padding: 10px;
+
+    font-size: 15px;
+
+    margin-top: 20px;
+
+}
+
+.deletebutton:hover{
+    background-color: #29003a;
+    color: white;
+}
+
+.accountbg{
+    background-color: rgb(248, 248, 248);
+    border-radius: 50px;
+    border: 2px solid black;
+
+    padding: 20px;
+
+    margin-top: 1rem;
+
+}
